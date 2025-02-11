@@ -1,0 +1,59 @@
+{
+  "images": [
+    {
+      "url": "images/image1.jpg",
+      "captions": {
+        "Capability": "Invite", 
+        "Industry": "Arts & Culture",
+                "Location": "Stockholm",
+        "Client": "Moderna Museet"
+
+      }
+    },
+    {
+      "url": "images/image2.jpg",
+      "captions": {
+        "Capability": "Jewellery box", 
+        "Industry": "Fashion & Lifestyle",
+        "Location": "Berlin",
+        "Client": "Savoir Joaillierie"
+      }
+    },
+    {
+      "url": "images/image5.jpg",
+      "captions": {
+        "Capability": "Packaging", 
+        "Industry": "Furniture & Interiors",
+        "Client": "Vitra",
+        "Location": "Zürich"
+      }
+    },
+    {
+      "url": "images/image6.jpg",
+      "captions": {
+        "Capability": "Brand identity", 
+        "Industry": "Fashion & Lifestyle",
+        "Client": "Pull & Bear",
+        "Location": "Madrid"
+      }
+    },
+    {
+      "url": "images/image3.jpg",
+      "captions": {
+        "Capability": "Book", 
+        "Industry": "Architecture",
+        "Client": "Architects Sweden",
+        "Location": "Stockholm"
+      }
+    },
+    {
+      "url": "images/image4.jpg",
+      "captions": {
+        "Capability": "Signage", 
+        "Industry": "Arts & Culture",
+        "Client": "Design Sweden",
+        "Location": "Stockholm"
+      }
+    }
+  ]
+}
